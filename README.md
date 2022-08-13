@@ -1,2 +1,2 @@
 # odin-recipes
-A basic html website that links to a few recipes
+A bare bones website that lists cooking recipes for three different dishes.

@@ -1,0 +1,14 @@
+body {
+    background-color: gray;
+}
+
+h1,
+ul li a{
+    color: white;
+}
+
+h1 {
+    font-family: monospace;
+    text-align: center;
+    text-decoration: underline;
+}
